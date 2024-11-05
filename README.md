@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  Institute of Electrical and Electronics Engineers
+  Institute of Electrical and Electronics Engineers -  Indira Gandhi Delhi Technical University for Women
   
   <a href="https://github.com/IEEE-IGDTUW"><img src="https://img.shields.io/badge/IEEE IGDTUW GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
   <a href="https://www.instagram.com/ieeeigdtuw/"><img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -15,7 +15,8 @@
 
 
 ### 🚀 Welcome to the IEEE IGDTUW Open Source Week!
-**IEEE** (Institute of Electrical and Electronics Engineers) is the world’s largest technical professional organization dedicated to advancing technology for humanity. This week, we aim to bring students together to explore, learn, and contribute to open-source projects while building essential skills for their future.
+**IEEE** (Institute of Electrical and Electronics Engineers) is the world’s largest technical organization focused on advancing technology for humanity. 
+**IEEE IGDTUW** is a vibrant student branch at **Indira Gandhi Delhi Technical University for Women**, founded on **February 6, 2004**. Our mission is to **empower aspiring women engineers** through a community that champions 🚀 **innovation**, 🌟 **leadership**, and 🛠️ **technical excellence**. 
 
 ---
 
@@ -23,10 +24,10 @@
 
 ---
 
-### Table of Contents
+### 📌 Table of Contents
 - [Introduction to Open Source](#introduction-to-open-source)
 - [Why Participate?](#why-participate)
-- [What You’ll Gain](#what-youll-gain)
+- [What You’ll Gain](#what-you-will-gain)
 - [How to Handle Merge Conflicts](#how-to-handle-merge-conflicts)
 - [Our Pledge](#our-pledge)
 - [Project List](#project-list)
@@ -36,18 +37,19 @@
 ---
 
 ### 💫 Introduction to Open Source
-Open source is all about collaboration and innovation. During this week, you'll have the opportunity to contribute to projects that impact real-world applications, while gaining practical skills and experience working in open-source communities.
+**IEEE IGDTUW Open Source Week** is a week-long event aimed at fostering collaboration and skill-building in open-source. Participants can work on impactful projects, learn version control, and gain real-world experience while contributing to open-source communities. It’s a great opportunity to develop coding skills, connect with mentors, and make meaningful contributions.
 
 ---
 
 ### 🗂️ Project List
 
-| S.No | Project                        | Maintainer         | Mentor          |
-|------|--------------------------------|--------------------|-----------------|
-| 1    | Project Name 1                 | Maintainer Name 1  | Mentor Name 1   |
-| 2    | Project Name 2                 | Maintainer Name 2  | Mentor Name 2   |
-| 3    | Project Name 3                 | Maintainer Name 3  | Mentor Name 3   |
-| ...  | ...                            | ...                | ...             |
+| S.No | Project                        | Project GitHub Link                      | Maintainer         | Mentor          |
+|------|--------------------------------|------------------------------------------|--------------------|-----------------|
+| 1    | Project Name 1                 | [GitHub Link 1](https://github.com/link-to-project1) | Maintainer Name 1  | Mentor Name 1   |
+| 2    | Project Name 2                 | [GitHub Link 2](https://github.com/link-to-project2) | Maintainer Name 2  | Mentor Name 2   |
+| 3    | Project Name 3                 | [GitHub Link 3](https://github.com/link-to-project3) | Maintainer Name 3  | Mentor Name 3   |
+| ...  | ...                            | ...                                      | ...                | ...             |
+
 
 ---
 
@@ -57,9 +59,10 @@ By joining IEEE IGDTUW Open Source Week, you can:
 - Contribute to meaningful projects.
 - Network with peers, mentors, and professionals.
 - Gain experience in handling version control and open-source contributions.
+
 ---
 
-### 🎊 What You’ll Gain
+### 🎊 What You Will Gain
 - **Collaboration Skills**: Work with others on shared projects.
 - **Version Control Mastery**: Learn to manage code using Git and GitHub.
 - **Problem-Solving Abilities**: Develop solutions in a supportive environment.
@@ -75,11 +78,53 @@ By joining IEEE IGDTUW Open Source Week, you can:
 
 ---
 
+## 🚀 How to Contribute
+
+1️⃣ **Choose a Project**: Browse the project list and select one you'd like to contribute to. Access the repository by clicking on its project link.
+   
+2️⃣ **Fork the Repository**: Once on the repository page, click the "Fork" button in the top-right corner to create a copy of the repository in your GitHub account.
+
+3️⃣ **Clone Your Fork**: Clone your forked repository to your local machine with:
+   ```
+   git clone https://github.com/your-username/repository-name.git
+   ```
+Replace your-username with your GitHub username and repository-name with the name of the repository.
+
+4️⃣ Navigate to the Repository Directory:
+   ```
+   cd repository-name
+   ```
+
+5️⃣ **Create a Branch**: Create a new branch for your feature or bug fix. Use a descriptive name for your branch:
+   ```
+   git checkout -b your-feature-branch-name
+   ```
+6️⃣ **Make Changes**: Make your desired changes. Ensure that your code adheres to our coding standards and passes any tests.
+
+7️⃣ **Add Changes**: Stage your changes for commit:
+   ```
+   git add .
+   ```
+
+8️⃣ **Commit Your Changes**: Commit your changes with a clear and concise message:
+   ```
+   git commit -m "Brief description of your changes"
+   ```
+
+9️⃣ **Push to GitHub**: Push your changes to your forked repository:
+   ```
+    git push origin your-feature-branch-name
+   ```
+
+🔟 **Submit a Pull Request**: Navigate to the original repository and submit a pull request from your branch. Provide a clear description of your changes and any relevant details.
+
+---
+
 ### 💬 How to Handle Merge Conflicts
 
 Merge conflicts are a common part of collaboration in open source. They occur when multiple people make changes to the same lines of code in a file or when one contributor edits a file that another contributor has deleted. Understanding why they happen helps us approach conflicts with care and respect for others’ contributions.
 
-#### Steps to Resolve Merge Conflicts:
+#### 🖥️ Steps to Resolve Merge Conflicts:
 1. **Identify the conflicting files** in your branch.
 2. **Open the files** and locate the conflict markers:
    - `<<<<<<<` marks the beginning of your changes.
@@ -92,8 +137,14 @@ Merge conflicts are a common part of collaboration in open source. They occur wh
 
 ---
 
+### 🤝 Code of Conduct
 
-### Our Pledge
+Contributors should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [ieeeigdtu@gmail.com](mailto:ieeeigdtu@gmail.com).
+
+
+---
+
+### 📃 Our Pledge
 We pledge to:
 - Foster a welcoming and inclusive environment for all contributors.
 - Support each other in learning and growing as developers.
