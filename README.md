@@ -20,7 +20,7 @@
 
 ---
 
-**🗓 Event Dates**: **November 8 - November 14**
+**🗓 Event Dates**: **November 10 - November 17**
 
 ---
 
