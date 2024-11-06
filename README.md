@@ -5,34 +5,33 @@
 </h1>
 
 <div align="center">
-  Institute of Electrical and Electronics Engineers -  Indira Gandhi Delhi Technical University for Women
+  <strong>Institute of Electrical and Electronics Engineers - Indira Gandhi Delhi Technical University for Women</strong>
   
-  <a href="https://github.com/IEEE-IGDTUW"><img src="https://img.shields.io/badge/IEEE IGDTUW GitHub%20-%231DA1F2.svg?&style=for-the-badge&logo=GitHub&logoColor=white&color=grey"></a>
-  <a href="https://www.instagram.com/ieeeigdtuw/"><img src="https://img.shields.io/badge/Instagram%20-%231DA1F2.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/company/ieee-igdtuw/mycompany/"><img src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://x.com/ieeeigdtuw"><img src="https://img.shields.io/badge/Twitter%20-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <br><br>
+  <a href="https://github.com/IEEE-IGDTUW"><img src="https://img.shields.io/badge/IEEE%20GitHub%20-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/ieeeigdtuw/"><img src="https://img.shields.io/badge/Instagram%20-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/ieee-igdtuw/mycompany/"><img src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/ieeeigdtuw"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-
-
-### 🚀 Welcome to the IEEE IGDTUW Open Source Week!
-**IEEE** (Institute of Electrical and Electronics Engineers) is the world’s largest technical organization focused on advancing technology for humanity. 
-**IEEE IGDTUW** is a vibrant student branch at **Indira Gandhi Delhi Technical University for Women**, founded on **February 6, 2004**. Our mission is to **empower aspiring women engineers** through a community that champions 🚀 **innovation**, 🌟 **leadership**, and 🛠️ **technical excellence**. 
 
 ---
 
-**🗓 Event Dates**: **November 10 - November 17**
+### 🚀 Welcome to IEEE IGDTUW Open Source Week!
+
+**Event Dates**: **November 10 - November 17**
 
 ---
 
 ### 📌 Table of Contents
-- [Introduction to Open Source](#introduction-to-open-source)
-- [Why Participate?](#why-participate)
-- [What You’ll Gain](#what-you-will-gain)
-- [How to Handle Merge Conflicts](#how-to-handle-merge-conflicts)
-- [Our Pledge](#our-pledge)
-- [Project List](#project-list)
-- [Code of Conduct](#code-of-conduct)
-- [Get Involved](#get-involved)
+
+- [🌟 Introduction to Open Source](#-introduction-to-open-source)
+- [🎉 Why Participate?](#-why-participate)
+- [✨ What You’ll Gain](#-what-youll-gain)
+- [📁 Project List](#-project-list)
+- [📝 How to Contribute](#-how-to-contribute)
+- [⚔️ Handling Merge Conflicts](#-how-to-handle-merge-conflicts)
+- [🌍 Code of Conduct](#-code-of-conduct)
+- [📜 Our Pledge](#-our-pledge)
 
 ---
 
@@ -49,7 +48,6 @@
 | 2    | Project Name 2                 | [GitHub Link 2](https://github.com/link-to-project2) | Maintainer Name 2  | Mentor Name 2   |
 | 3    | Project Name 3                 | [GitHub Link 3](https://github.com/link-to-project3) | Maintainer Name 3  | Mentor Name 3   |
 | ...  | ...                            | ...                                      | ...                | ...             |
-
 
 ---
 
@@ -69,7 +67,6 @@ By joining IEEE IGDTUW Open Source Week, you can:
 - **Hands-On Learning**: Gain experience working on impactful projects.
 
 ---
-
 
 ### 👀 What to Expect
 - Engage in real-world projects.
@@ -140,7 +137,6 @@ Merge conflicts are a common part of collaboration in open source. They occur wh
 ### 🤝 Code of Conduct
 
 Contributors should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [ieeeigdtu@gmail.com](mailto:ieeeigdtu@gmail.com).
-
 
 ---
 
