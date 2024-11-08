@@ -18,7 +18,7 @@
 
 ### 🚀 Welcome to IEEE IGDTUW Open Source Week!
 
-**Event Dates**: **November 10 - November 17**
+**Event Dates**: **November 10 - November 18**
 
 ---
 
