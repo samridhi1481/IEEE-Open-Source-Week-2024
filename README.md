@@ -57,8 +57,8 @@
 | 9   | DL-Simplified                                  | [GitHub Link 9](https://github.com/abhisheks008/DL-Simplified)| [Abhishek Sharma](https://github.com/abhisheks008)        | Mentor|
 | 10  | Music-Recommendation-Using-Facial-Expressions  |[GitHub Link 10](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions)|[Shivam Gupta](https://github.com/SGCODEX)|Mentor|
 | 11  | TRAVEL_WEBSITE                                 | [GitHub Link 11](https://github.com/apu52/Travel_Website)     | [Arpan Chowdhury](https://github.com/apu52)               | Mentor|
-| 12  | METAVERSE                                      | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | [Arpan Chowdhury]](https://github.com/apu52)              | Mentor|
-| 13  | ResQFood                                       | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar] (https://github.com/sourabhkumar47)       | Mentor|
+| 12  | METAVERSE                                      | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | [Arpan Chowdhury](https://github.com/apu52)               | Mentor|
+| 13  | ResQFood                                       | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar](https://github.com/sourabhkumar47)        | Mentor|
 | 14  | PicWise                                        | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | [Aryan Inguz](https://github.com/Aryainguz)               | Mentor|
 | 15  | Zen Zone                                       | [GitHub Link 15](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor|
  
