@@ -53,15 +53,14 @@
 | 5    | Finveda                                        | [GitHub Link 5](https://github.com/ayush-that/FinVeda)        | Ayush Singh                | Mentor Name 5                            |
 | 6    | ML-capsule                                     | [GitHub Link 6](https://github.com/Niketkumardheeryan/ML-CaPsule)                          | Niket Kumar dheeryan | Mentor Name 6     |
 | 7    | ShopSmart                                      | [GitHub Link 7](https://github.com/yuvrajsinghgmx/ShopSmart)  | Yuvraj Singh               | Mentor Name 7                            |
-| 8    | Project-Guidance                               | [GitHub Link 8](https://github.com/Kushal997-das/Project-Guidance)                         | Kushal Das           | Mentor Name 8     |
-| 9    | Jarvis                                         | [GitHub Link 9](https://github.com/Avdhesh-Varshney/Jarvis)   | Avdhesh Varshney           | Mentor Name 9                            |    
-| 10   | DL-Simplified                                  | [GitHub Link 10](https://github.com/abhisheks008/DL-Simplified)                            | Abhishek Sharma      | Mentor Name 10    |
-| 11   | Music-Recommendation-Using-Facial-Expressions  | [GitHub Link 11](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) | Shivam Gupta         | Mentor Name 11    |
-| 12   | TRAVEL_WEBSITE                                 | [GitHub Link 12](https://github.com/apu52/Travel_Website)     | Arpan Chowdhury            | Mentor Name 12                           |
-| 13   | METAVERSE                                      | [GitHub Link 13](https://github.com/apu52/METAVERSE)          | Arpan Chowdhury            | Mentor Name 13                           |
-| 14   | ResQFood                                       | [GitHub Link 14](https://github.com/sourabhkumar47/ResQFood)  | Sourabh Kumar              | Mentor Name 14                           |
-| 15   | PicWise                                        | [GitHub Link 15](https://github.com/Aryainguz/picwise.co)     | Aryan Inguz                | Mentor Name 15                           |
-| 16   | Zen Zone                                       | [GitHub Link 16](https://github.com/Bluesparx/raga)           | Riddhi Rustagi             | Mentor Name 16                           |
+| 8    | Project-Guidance                               | [GitHub Link 8](https://github.com/Kushal997-das/Project-Guidance)                         | Kushal Das           | Mentor Name 8     |   
+| 9    | DL-Simplified                                  | [GitHub Link 9](https://github.com/abhisheks008/DL-Simplified)                             | Abhishek Sharma      | Mentor Name 9     |
+| 10   | Music-Recommendation-Using-Facial-Expressions  | [GitHub Link 10](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) | Shivam Gupta         | Mentor Name 10    |
+| 11   | TRAVEL_WEBSITE                                 | [GitHub Link 11](https://github.com/apu52/Travel_Website)     | Arpan Chowdhury            | Mentor Name 11                           |
+| 12   | METAVERSE                                      | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | Arpan Chowdhury            | Mentor Name 12                           |
+| 13   | ResQFood                                       | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | Sourabh Kumar              | Mentor Name 13                           |
+| 14   | PicWise                                        | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | Aryan Inguz                | Mentor Name 14                           |
+| 15   | Zen Zone                                       | [GitHub Link 15](https://github.com/Bluesparx/raga)           | Riddhi Rustagi             | Mentor Name 15                           |
 
 ---
 
