@@ -91,30 +91,43 @@ Don’t miss out on this opportunity to learn, contribute, and win!
 Adding labels to issues and pull requests helps us organize and prioritize work efficiently. Follow these steps to add labels to any issue or pull request:
 
 ## 💫 Creating "ieee-igdtuw" label
+
 1️⃣ 👩‍💻 **On GitHub, navigate to the main page of the repository.**
+
 2️⃣ 👀 **Under your repository name, click  Issues  or  Pull requests.**
 
+<img width="680" alt="Screenshot 2024-11-10 at 7 37 30 PM" src="https://github.com/user-attachments/assets/0b52a27e-1067-430e-8de1-d91efb83beaa">
 
 3️⃣ 📂 **Above the list of issues or pull requests, click Labels.**
 
+<img width="685" alt="Screenshot 2024-11-10 at 7 38 17 PM" src="https://github.com/user-attachments/assets/0a89f625-df05-4f3d-a2aa-ea7b71b3cd64">
 
 4️⃣ 👩‍💻 **To the right of the search field, click New label.**
+
+<img width="1232" alt="Screenshot 2024-11-10 at 7 39 39 PM" src="https://github.com/user-attachments/assets/0e42ab81-1532-4309-b402-6e4ee4d3d9cd">
 
 
 5️⃣ 💫 **Now, you can create `ieee-igdtuw` label.**
 - Under "Label name", type a `ieee-igdtuw`
 - Under "Description", type a description to help others understand and use your label.
-- To customize the color of your label, edit the hexadecimal number.
+- To customize the color of your label, edit the hexadecimal number. (#C08BE4)
   
+<img width="1212" alt="Screenshot 2024-11-10 at 7 41 49 PM" src="https://github.com/user-attachments/assets/5944324c-9d1b-409a-abab-204cc839df09">
+
 
 6️⃣ 📌 **To save the new label, click Create label.**
 
 7️⃣ 🎊 **After following above steps, `ieee-igdtuw` label will be visible under `Labels` section.**
 
+<img width="1239" alt="Screenshot 2024-11-10 at 7 43 34 PM" src="https://github.com/user-attachments/assets/6fdb54fa-5336-44f8-a664-4a2ce5a5a9d6">
+
+
 ## 🚀 How to apply label to issues and PR.
 
 1️⃣ 👩‍💻 **Open the Issue or Pull Request**
    - Select the specific issue or pull request where you want to add labels.
+
+<img width="1243" alt="Screenshot 2024-11-10 at 7 44 59 PM" src="https://github.com/user-attachments/assets/69fa54fb-1506-4d19-ab96-650fe08142ba">
 
 
 2️⃣ 🌟 **Access the Labels Section**
@@ -122,14 +135,20 @@ Adding labels to issues and pull requests helps us organize and prioritize work 
    - Click on the **Labels** dropdown to view the list of available labels.
      
 
+<img width="349" alt="Screenshot 2024-11-10 at 7 45 35 PM" src="https://github.com/user-attachments/assets/27111a7c-23de-473d-9196-7f63223b7739">
+
+
 3️⃣ 🎊 **Choose a Label**
    - Scroll through the list and click on the label(s) you want to add.
    - You can add multiple labels if necessary.
    - Don't forget to add `ieee-igdtuw` label.
      
 
+<img width="326" alt="Screenshot 2024-11-10 at 7 46 04 PM" src="https://github.com/user-attachments/assets/db7e7723-f0ed-40a7-8175-e50845151e6c">
+
 4️⃣ 🏆 **Labels are added🎉**
 
+<img width="538" alt="Screenshot 2024-11-10 at 7 46 32 PM" src="https://github.com/user-attachments/assets/8638cb73-6435-49d3-b7ec-c2e50f6b0fbd">
 
 
 ---
