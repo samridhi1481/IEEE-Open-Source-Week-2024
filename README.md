@@ -12,6 +12,7 @@
   <a href="https://www.instagram.com/ieeeigdtuw/"><img src="https://img.shields.io/badge/Instagram%20-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/company/ieee-igdtuw/mycompany/"><img src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/ieeeigdtuw"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.gg/KJFY8yZQ"><img src="https://img.shields.io/badge/Discord%20-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 ---
