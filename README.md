@@ -44,6 +44,8 @@
 
 ### 🗂️ Project List
 
+### 🗂️ Project List
+
 | S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                | Mentor         |
 |------|------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------|
 | 1    | TrailGo                                        | Web Development (WebD), UI/UX                    | [GitHub Link 1](https://github.com/subhadeeproy3902/trailgo)  | [Subhadeep Roy](https://github.com/subhadeeproy3902)      | Mentor         |
@@ -51,7 +53,7 @@
 | 3    | Jarvis                                         | AI/ML                                            | [GitHub Link 3](https://github.com/Avdhesh-Varshney/Jarvis)   | [Avdhesh Varshney](https://github.com/Avdhesh-Varshney)   | Mentor         |
 | 4    | Object_tracking_in_360_video                   | AI/ML                                            | [GitHub Link 4](https://github.com/MAVERICK-VF142/Object_tracking_in_360_video) | [ASHUTOSH JENA](https://github.com/MAVERICK-VF142) | Mentor         |
 | 5    | Finveda                                        | Web Development (WebD), AI/ML                    | [GitHub Link 5](https://github.com/ayush-that/FinVeda)        | [Ayush Singh](https://github.com/ayush-that)              | Mentor         |
-| 6    | ML-capsule                                     | Web Development (WebD), AI/ML                    | [GitHub Link 6](https://github.com/Niketkumardheeryan/ML-CaPsule) | [Niket Kumar dheeryan](https://github.com/Niketkumardheeryan) | Mentor    |
+| 6    | ML-capsule                                     | Web Development (WebD), AI/ML                    | [GitHub Link 6](https://github.com/Niketkumardheeryan/ML-CaPsule) | [Niket Kumar dheeryan](https://github.com/Niketkumardheeryan) | Mentor |
 | 7    | ShopSmart                                      | Android                                          | [GitHub Link 7](https://github.com/yuvrajsinghgmx/ShopSmart)  | [Yuvraj Singh](https://github.com/yuvrajsinghgmx)         | Mentor         |
 | 8    | Project-Guidance                               | Web Development (WebD), AI/ML, UI/UX, Android, Blockchain/Web3, DevOps, AR/VR | [GitHub Link 8](https://github.com/Kushal997-das/Project-Guidance) | [Kushal Das](https://github.com/Kushal997-das) | Mentor |
 | 9    | DL-Simplified                                  | AI/ML                                            | [GitHub Link 9](https://github.com/abhisheks008/DL-Simplified)| [Abhishek Sharma](https://github.com/abhisheks008)        | Mentor         |
@@ -60,7 +62,8 @@
 | 12   | METAVERSE                                      | Web Development (WebD)                           | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | [Arpan Chowdhury](https://github.com/apu52)               | Mentor         |
 | 13   | ResQFood                                       | Android                                          | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar](https://github.com/sourabhkumar47)        | Mentor         |
 | 14   | PicWise                                        | Web Development (WebD)                           | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | [Aryan Inguz](https://github.com/Aryainguz)               | Mentor         |
-| 15   | Zen Zone                                       | Web Development (WebD)                           | [GitHub Link 15](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor         |
+| 15   | DevDisplay                                     | Web Development (WebD)                           | [GitHub Link 15](https://github.com/codeaashu/DevDisplay)     | [Ashutosh Singh](https://github.com/codeaashu)            | Mentor         |
+| 16   | Zen Zone                                       | Web Development (WebD)                           | [GitHub Link 16](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor         |
 
 ---
 
