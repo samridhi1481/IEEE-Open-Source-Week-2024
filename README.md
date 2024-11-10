@@ -42,7 +42,6 @@
 
 ---
 
-### 🗂️ Project List
 
 ### 🗂️ Project List
 
