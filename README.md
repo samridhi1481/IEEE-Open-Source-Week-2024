@@ -63,7 +63,7 @@
 | 13   | ResQFood                                       | Android                                          | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar](https://github.com/sourabhkumar47)        | Mentor         |
 | 14   | PicWise                                        | Web Development (WebD)                           | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | [Aryan Inguz](https://github.com/Aryainguz)               | Mentor         |
 | 15   | DevDisplay                                     | Web Development (WebD)                           | [GitHub Link 15](https://github.com/codeaashu/DevDisplay)     | [Ashutosh Singh](https://github.com/codeaashu)            | Mentor         |
-| 16   | Zen Zone                                       | Web Development (WebD)                           | [GitHub Link 16](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor         |
+| 16   | Zen Zone                                       | Web Development (WebD)                           | [GitHub Link 16](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Riddhi050803)           | Mentor         |
 
 ---
 
