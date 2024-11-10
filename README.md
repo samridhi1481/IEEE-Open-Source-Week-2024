@@ -44,41 +44,39 @@
 
 ### 🗂️ Project List
 
-| S.No| Project                                        | Project GitHub Link                                           | Maintainer                                                | Mentor         |
-|-----|------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------|
-| 1   | TrailGo                                        | [GitHub Link 1](https://github.com/subhadeeproy3902/trailgo)  | [Subhadeep Roy](https://github.com/subhadeeproy3902)      | Mentor|
-| 2   | PyVerse                                        | [GitHub Link 2](https://github.com/UTSAVS26/PyVerse)          | [Utsav Singhal](https://github.com/UTSAVS26)              | Mentor| 
-| 3   | Jarvis                                         | [GitHub Link 3](https://github.com/Avdhesh-Varshney/Jarvis)   | [Avdhesh Varshney](https://github.com/Avdhesh-Varshney)   | Mentor|
-| 4   | Object_tracking_in_360_video                   | [GitHub Link 4](https://github.com/MAVERICK-VF142/Object_tracking_in_360_video) |[ASHUTOSH JENA](https://github.com/MAVERICK-VF142) |Mentor|
-| 5   | Finveda                                        | [GitHub Link 5](https://github.com/ayush-that/FinVeda)        | [Ayush Singh](https://github.com/ayush-that)              | Mentor|
-| 6   | ML-capsule                                     | [GitHub Link 6](https://github.com/Niketkumardheeryan/ML-CaPsule)| [Niket Kumar dheeryan](https://github.com/Niketkumardheeryan)    |Mentor|
-| 7   | ShopSmart                                      | [GitHub Link 7](https://github.com/yuvrajsinghgmx/ShopSmart)  | [Yuvraj Singh](https://github.com/yuvrajsinghgmx)         | Mentor|
-| 8   | Project-Guidance                               | [GitHub Link 8](https://github.com/Kushal997-das/Project-Guidance) | [Kushal Das](https://github.com/Kushal997-das)       | Mentor|  
-| 9   | DL-Simplified                                  | [GitHub Link 9](https://github.com/abhisheks008/DL-Simplified)| [Abhishek Sharma](https://github.com/abhisheks008)        | Mentor|
-| 10  | Music-Recommendation-Using-Facial-Expressions  |[GitHub Link 10](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions)|[Shivam Gupta](https://github.com/SGCODEX)|Mentor|
-| 11  | TRAVEL_WEBSITE                                 | [GitHub Link 11](https://github.com/apu52/Travel_Website)     | [Arpan Chowdhury](https://github.com/apu52)               | Mentor|
-| 12  | METAVERSE                                      | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | [Arpan Chowdhury](https://github.com/apu52)               | Mentor|
-| 13  | ResQFood                                       | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar](https://github.com/sourabhkumar47)        | Mentor|
-| 14  | PicWise                                        | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | [Aryan Inguz](https://github.com/Aryainguz)               | Mentor|
-| 15  | Zen Zone                                       | [GitHub Link 15](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor|
- 
+| S.No | Project                                        | Domain                                           | Project GitHub Link                                           | Maintainer                                                | Mentor         |
+|------|------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|----------------|
+| 1    | TrailGo                                        | Web Development (WebD), UI/UX                    | [GitHub Link 1](https://github.com/subhadeeproy3902/trailgo)  | [Subhadeep Roy](https://github.com/subhadeeproy3902)      | Mentor         |
+| 2    | PyVerse                                        | Web Development (WebD), AI/ML, Blockchain/Web3   | [GitHub Link 2](https://github.com/UTSAVS26/PyVerse)          | [Utsav Singhal](https://github.com/UTSAVS26)              | Mentor         | 
+| 3    | Jarvis                                         | AI/ML                                            | [GitHub Link 3](https://github.com/Avdhesh-Varshney/Jarvis)   | [Avdhesh Varshney](https://github.com/Avdhesh-Varshney)   | Mentor         |
+| 4    | Object_tracking_in_360_video                   | AI/ML                                            | [GitHub Link 4](https://github.com/MAVERICK-VF142/Object_tracking_in_360_video) | [ASHUTOSH JENA](https://github.com/MAVERICK-VF142) | Mentor         |
+| 5    | Finveda                                        | Web Development (WebD), AI/ML                    | [GitHub Link 5](https://github.com/ayush-that/FinVeda)        | [Ayush Singh](https://github.com/ayush-that)              | Mentor         |
+| 6    | ML-capsule                                     | Web Development (WebD), AI/ML                    | [GitHub Link 6](https://github.com/Niketkumardheeryan/ML-CaPsule) | [Niket Kumar dheeryan](https://github.com/Niketkumardheeryan) | Mentor    |
+| 7    | ShopSmart                                      | Android                                          | [GitHub Link 7](https://github.com/yuvrajsinghgmx/ShopSmart)  | [Yuvraj Singh](https://github.com/yuvrajsinghgmx)         | Mentor         |
+| 8    | Project-Guidance                               | Web Development (WebD), AI/ML, UI/UX, Android, Blockchain/Web3, DevOps, AR/VR | [GitHub Link 8](https://github.com/Kushal997-das/Project-Guidance) | [Kushal Das](https://github.com/Kushal997-das) | Mentor |
+| 9    | DL-Simplified                                  | AI/ML                                            | [GitHub Link 9](https://github.com/abhisheks008/DL-Simplified)| [Abhishek Sharma](https://github.com/abhisheks008)        | Mentor         |
+| 10   | Music-Recommendation-Using-Facial-Expressions  | Web Development (WebD), AI/ML, UI/UX             | [GitHub Link 10](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) | [Shivam Gupta](https://github.com/SGCODEX) | Mentor |
+| 11   | TRAVEL_WEBSITE                                 | Web Development (WebD)                           | [GitHub Link 11](https://github.com/apu52/Travel_Website)     | [Arpan Chowdhury](https://github.com/apu52)               | Mentor         |
+| 12   | METAVERSE                                      | Web Development (WebD)                           | [GitHub Link 12](https://github.com/apu52/METAVERSE)          | [Arpan Chowdhury](https://github.com/apu52)               | Mentor         |
+| 13   | ResQFood                                       | Android                                          | [GitHub Link 13](https://github.com/sourabhkumar47/ResQFood)  | [Sourabh Kumar](https://github.com/sourabhkumar47)        | Mentor         |
+| 14   | PicWise                                        | Web Development (WebD)                           | [GitHub Link 14](https://github.com/Aryainguz/picwise.co)     | [Aryan Inguz](https://github.com/Aryainguz)               | Mentor         |
+| 15   | Zen Zone                                       | Web Development (WebD)                           | [GitHub Link 15](https://github.com/Bluesparx/raga)           | [Riddhi Rustagi]( https://github.com/Bluesparx)           | Mentor         |
+
 ---
 
 ### 🌟 Why Participate?
 
 Joining **IEEE IGDTUW Open Source Week** is a fantastic opportunity to:
 
+- 💰 **Win Exciting Cash Prizes**: Compete for rewarding cash prizes!
+- 🎁 **Earn IEEE Goodies**: Grab exclusive IEEE merchandise.
+- 🏅 **Get Annual IEEE Membership**: Enjoy a year-long membership with IEEE and its benefits.
 - 🚀 **Enhance Your Skills**: Build real-world coding and collaboration skills.
 - 🌱 **Make a Difference**: Contribute to impactful projects with lasting value.
 - 🤝 **Expand Your Network**: Connect with peers, mentors, and industry professionals.
 - 🔧 **Master Open-Source Tools**: Gain hands-on experience with version control and open-source contributions.
+- 📈 **Boost Your Resume**: Showcase your participation in an IEEE-led open-source event.
 
-#### 🎉 **Exciting Incentives Await!**
-Participate and stand a chance to earn:
-- 💸 **Cash Prizes** 
-- 🎁 **Exclusive Goodies** 
-- 📜 **IEEE Certificates**
-- 🏆 **Annual IEEE Membership**
 
 Don’t miss out on this opportunity to learn, contribute, and win!
 
